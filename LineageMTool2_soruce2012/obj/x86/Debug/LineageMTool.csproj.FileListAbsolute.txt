@@ -1,0 +1,13 @@
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\bin\Debug\LineageMTool.exe
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\bin\Debug\LineageMTool.pdb
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\bin\Debug\Imgur.API.dll
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\bin\Debug\LineBot.dll
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\bin\Debug\SlimDX.dll
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\obj\x86\Debug\LineageMTool.csprojResolveAssemblyReference.cache
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\obj\x86\Debug\LineageMTool.About.resources
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\obj\x86\Debug\LineageMTool.Form1.resources
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\obj\x86\Debug\LineageMTool.Properties.Resources.resources
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\obj\x86\Debug\LineageMTool.csproj.GenerateResource.Cache
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\obj\x86\Debug\LineageMTool.exe
+C:\Users\rich.cheng\Desktop\LineageMTool2_soruce2012\obj\x86\Debug\LineageMTool.pdb

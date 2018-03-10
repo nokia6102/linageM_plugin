@@ -1,0 +1,10 @@
+C:\Users\rich.cheng\Desktop\Lineage2012MTool_soruce\obj\x86\Debug\LineageMTool.csprojResolveAssemblyReference.cache
+C:\Users\rich.cheng\Desktop\Lineage2012MTool_soruce\obj\x86\Debug\LineageMTool.About.resources
+C:\Users\rich.cheng\Desktop\Lineage2012MTool_soruce\obj\x86\Debug\LineageMTool.Form1.resources
+C:\Users\rich.cheng\Desktop\Lineage2012MTool_soruce\obj\x86\Debug\LineageMTool.Properties.Resources.resources
+C:\Users\rich.cheng\Desktop\Lineage2012MTool_soruce\obj\x86\Debug\LineageMTool.csproj.GenerateResource.Cache
+C:\Users\rich.cheng\Desktop\Lineage2012MTool_soruce\bin\Debug\LineageMTool.exe
+C:\Users\rich.cheng\Desktop\Lineage2012MTool_soruce\bin\Debug\LineageMTool.pdb
+C:\Users\rich.cheng\Desktop\Lineage2012MTool_soruce\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rich.cheng\Desktop\Lineage2012MTool_soruce\obj\x86\Debug\LineageMTool.exe
+C:\Users\rich.cheng\Desktop\Lineage2012MTool_soruce\obj\x86\Debug\LineageMTool.pdb
